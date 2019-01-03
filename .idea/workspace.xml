@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3333785d-62c6-45ff-aed2-2b37c523fe76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge_2/claim.txt" beforeDir="false" afterPath="$PROJECT_DIR$/challenge_2/claim.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge_1/cafe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../challenge_1/cafe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge_2/claim.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../challenge_2/claim.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge_4/badge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../challenge_4/badge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge_5/greet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../challenge_5/greet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenge_6/green_plan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../challenge_6/green_plan.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,53 +17,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1885916178">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="barbecue" value="1" />
-          <entry key="py" value="18" />
-          <entry key="txt" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="18" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="874" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="874" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/challenge_2/claim.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,8 +27,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../challenge_4</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,6 +63,11 @@
         <option value="$PROJECT_DIR$/challenge_8/smart_insurance.py" />
         <option value="$PROJECT_DIR$/challenge_8_tests/test.py" />
         <option value="$PROJECT_DIR$/challenge_2/claim.txt" />
+        <option value="$PROJECT_DIR$/../challenge_1/cafe.txt" />
+        <option value="$PROJECT_DIR$/../challenge_2/claim.txt" />
+        <option value="$PROJECT_DIR$/../challenge_4/badge.txt" />
+        <option value="$PROJECT_DIR$/../challenge_5/greet.txt" />
+        <option value="$PROJECT_DIR$/../challenge_6/green_plan.txt" />
       </list>
     </option>
   </component>
@@ -106,7 +77,9 @@
     <option name="width" value="934" />
     <option name="height" value="1055" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -116,13 +89,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="gold_badge_challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gold_badge_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_gold_badge_challenges" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="gold_badge_challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gold_badge_challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge_2" type="462c0819:PsiDirectoryNode" />
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_gold_badge_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge_6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,6 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -162,16 +136,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540306331399</updated>
+      <workItem from="1546528959383" duration="1486000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1486000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="25" width="1867" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19902386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20143884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -183,132 +162,103 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/challenge_1_tests/test.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_1_tests/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_1/cafe.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_2_tests/test.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_2_tests/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_1/cafe.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge_1_tests/claim.py" />
-    <entry file="file://$PROJECT_DIR$/challenge_2/claim.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_2/claim.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_3/outing.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_3/outing.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_3_tests/test.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_3_tests/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_3/outing.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_4/badge.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_4/badge.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_4_tests/test.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_4_tests/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_4/badge.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_5/greet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_5_tests/test.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_5_tests/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_5/greet.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_5/greet.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_6/green_plan.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_6/green_plan.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_6_tests/test.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_6_tests/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_7/barbecue.txt">
+    <entry file="file://$PROJECT_DIR$/../challenge_7/barbecue.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_7/barbecue.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_7/barbecue.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_7_tests/test.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_7_tests/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_8_tests/test.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_8_tests/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_8/smart_insurance.py">
+    <entry file="file://$PROJECT_DIR$/../challenge_8/smart_insurance.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_8/smart_insurance.txt">
+    <entry file="file://$PROJECT_DIR$/../challenge_8/smart_insurance.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
@@ -316,10 +266,48 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.txt" />
-    <entry file="file://$PROJECT_DIR$/challenge_2/claim.txt">
+    <entry file="file://$PROJECT_DIR$/../challenge_1/cafe.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../challenge_1/cafe.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        <state relative-caret-position="391">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../challenge_2/claim.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../challenge_3/outing.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../challenge_4/badge.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../challenge_5/greet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../challenge_6/green_plan.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>

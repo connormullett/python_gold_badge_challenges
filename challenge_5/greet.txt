@@ -18,7 +18,7 @@ an application that allows administrators to do CRUD methods: create, read, upda
 details about individual customers. 
 
 List View
-In addition to CRUD options, an administrator needs to show all customers in alphabetical order in a list like this:
+In addition to CRUD options, an administrator needs to show all customers order in a list like this:
 
 FirstName  LastName  Type        Email
 Jake        Smith     Potential   We currently have the lowest rates on Helicopter Insurance!

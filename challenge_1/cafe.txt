@@ -11,11 +11,11 @@ a list of ingredients in the meal,
 and a price.
 
 Your task is to do the following:
-1. Create a Menu class with properties, constructors, and fields.
+1. Create a Menu class with constructors and instance attributes.
 2. Create a MenuRepository class that has methods needed.
 3. Create a Test Class for your repository methods. (You don't need to test
 your constructors or objects. Just the methods.)
-4. Create a Program file that allows the restaurant manager to add, delete,
+4. Create a User Interface file that allows the restaurant manager to add, delete,
 and see all items in the menu list.
 
 Notes:
